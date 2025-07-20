@@ -1,0 +1,31 @@
+# Node modules (dependencies)
+node_modules/
+
+# Environment variables
+config/config.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# Directory for file uploads and processing (optional: if you don't want to commit them)
+uploads/
+processed/
+temp/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Output from coverage or test tools
+coverage/
