@@ -69,6 +69,8 @@ npm run dev
 
 # Production mode
 npm start
+# Debug Mode Usage
+set DEBUG=app:* && nodemon server.js
 ```
 
 The application will be available at `http://localhost:3000`
