@@ -34,7 +34,7 @@
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/pdf-merger-splitter.git
+git clone https://github.com/ShivanHussain/PDF-Merger-and-Splitter-Backend
 cd pdf-merger-splitter
 ```
 
